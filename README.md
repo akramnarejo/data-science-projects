@@ -1,2 +1,1 @@
-# Projects
-data science projects i have worked on.
+# Data Science Projects that I have worked on
