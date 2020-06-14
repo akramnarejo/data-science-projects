@@ -6,3 +6,9 @@
 * SVM
 * Logistic Regression
 ### 2. Performed Exploratory data analysis on chocolate bar ratings 
+### 3. Regression Problem, part of kaggle competitions to predict the House prices
+**Following regression algorithms I have used**
+* Linear Regression
+* Decision Tree
+* Random Forest
+* XGBoost
